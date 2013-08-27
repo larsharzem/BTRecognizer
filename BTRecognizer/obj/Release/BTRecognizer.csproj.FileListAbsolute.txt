@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\bin\Release\savedDevices.xml
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\bin\Release\settings.xml
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\bin\Release\BTRecognizer.exe
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\bin\Release\BTRecognizer.pdb
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\bin\Release\NETExtensions.dll
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\obj\Release\BTRecognizer.MainForm.resources
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\obj\Release\BTRecognizer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\obj\Release\BTRecognizer.Settings.resources
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\obj\Release\BTRecognizer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\obj\Release\BTRecognizer.exe
+C:\Users\Administrator\Documents\Studium\09.2 Designing Communication Processes for Social Change\BTRecognizer\BTRecognizer\obj\Release\BTRecognizer.pdb

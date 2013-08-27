@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <param name="savedDevicesPath"></param>
+  <param name="savedDevicesFile">savedDevices.xml</param>
+  <param name="refreshInterval">10</param>
+  <param name="timeToLive">5</param>
+  <param name="updateFailedMessage">false</param>
+  <param name="editingPassword">applepie</param>
+</settings>
